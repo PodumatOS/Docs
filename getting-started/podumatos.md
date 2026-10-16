@@ -49,5 +49,5 @@ PodumatOS is currently in alpha and under development.
 | **HID** | Human Interface Device – keyboards, mice, etc. |
 | **Limine** | The bootloader used by PodumatOS. |
 | **HHDM** | Higher Half Direct Map – a memory layout provided by Limine. |
-| **BSD-2-Clause** | The license of the PodumatOS source code. |
+| **BSD-2-Clause-Patent** | The license of the PodumatOS source code. |
 | **CC BY 4.0** | The license of this documentation. |
